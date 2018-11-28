@@ -1,0 +1,36 @@
+.title {text-align: center;
+}
+.food1 {text-align: center; color:red;
+}
+.Airzona {
+    text-align: center; color:purple;
+}
+.picture1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 500px;
+    width: 500px;
+    border:double 40px;
+    color: black;
+}
+body {
+    background-color:white;background: url("https://freedesignfile.com/upload/2015/05/Black-paper-floral-seamless-pattern-vector.jpg");
+}
+.food2 {
+    text-align: center; color:red;
+}
+.picture2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 500px;
+    width: 500px;
+    border:double 40px;
+    color: black;
+}
+.Dorito {
+    text-align: center; color:red;
+}
